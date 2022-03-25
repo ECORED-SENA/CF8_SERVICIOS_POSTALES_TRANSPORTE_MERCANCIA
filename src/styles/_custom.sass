@@ -87,7 +87,61 @@
       background-color: #a4a3ff
       transform: scale(1.1)
 
-
+.texto-seis-alt
+  position: relative
+  p
+    margin-left: 20px
+  &:before
+    content: ' '
+    display: block
+    width: 4px
+    height: 21px
+    background-color: $color-primario
+    position: absolute
+    left: 0
+    top: 0
+  &.color-primario
+    &:before
+      background-color: $color-primario
+  &.color-secundario
+    &:before
+      background-color: $color-secundario
+  &.color-acento-contenido
+    &:before
+      background-color: $color-acento-contenido
+  &.color-acento-botones
+    &:before
+      background-color: $color-acento-botones
+.contenedor-slyder
+  .img-float
+    position: absolute
+    bottom: -10%
+    right: 0
+    width: 210px
+    animation: float 3s infinite alternate
+  .img-1
+    position: relative
+  &:before
+    animation: float 3s infinite alternate
+    animation-delay: 2s
+    content: ''
+    position: absolute
+    top: 5%
+    left: 45%
+    background-color: #ffde96
+    width: 60px
+    height: 11px
+    border-radius: 20px
+  &:after
+    animation: float 3s infinite alternate
+    content: ''
+    position: absolute
+    bottom: 5%
+    left: 10%
+    background-color: #43a99b
+    width: 60px
+    height: 11px
+    border-radius: 20px
 
 
 
