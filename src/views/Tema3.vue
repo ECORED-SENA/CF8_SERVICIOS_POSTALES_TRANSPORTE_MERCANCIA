@@ -173,7 +173,6 @@
       .col-lg-10
         .tabla-a.color-acento-botones.mb-5
           table
-            caption Leyenda de la tabla
             thead
               tr.bg-blue
                 th.h4 Tipo
