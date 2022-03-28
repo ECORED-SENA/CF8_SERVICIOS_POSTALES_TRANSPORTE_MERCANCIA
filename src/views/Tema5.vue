@@ -62,7 +62,7 @@
               span 8414237000153
           div(titulo="Símbolo")
             p.subrayado Representación de caracteres numéricos o alfabéticos en forma de 
-              span código de barras.
+              span código de barras
 
 
 </template>
