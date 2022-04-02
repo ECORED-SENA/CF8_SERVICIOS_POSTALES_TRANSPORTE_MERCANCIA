@@ -88,22 +88,22 @@
             th.h4 Desventajas
         tbody
           tr
-            td.fw-bold Metal
+            td.fw-bold.text-center Metal
             td Contenedores, bidones, cajas metálicas.
             td Fácil estibado, reutilizables.
             td Alto costo, corrosión, pesado, voluminoso.
           tr
-            td.fw-bold Madera
+            td.fw-bold.text-center Madera
             td Cajas, canastas, estibas.
             td Fácil de manipular.
             td Alto costo, sensibilidad al sol y humedad, contaminable, sensible a plagas, inflamable.
           tr
-            td.fw-bold Cartón
+            td.fw-bold.text-center Cartón
             td Cajas de cartón.
             td Económico, reciclable, fácil de manipular.
             td Frágil, sensible a la humedad y calor, poco sólido.
           tr
-            td.fw-bold Plástico
+            td.fw-bold.text-center Plástico
             td Bolsas, cajas, contenedores.
             td Impermeabilidad, diversidad, reutilizable.
               br
@@ -112,12 +112,12 @@
               |Resistente al rasgado y envasado.
             td Inflamable, cotoso, difícil eliminación.
           tr
-            td.fw-bold Papel
+            td.fw-bold.text-center Papel
             td Bolsas, papel para envolver, papel parafinado.
             td Bajo costo, fácil eliminación, reciclable.
             td Frágil, sensible a la humedad y el calor.
           tr
-            td.fw-bold Vidrio
+            td.fw-bold.text-center Vidrio
             td Botellas, frascos, botellones.
             td Visibilidad del contenido, fácil estibado, reciclable.
             td Frágil a golpes, pesado, voluminoso.

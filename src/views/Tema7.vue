@@ -16,7 +16,7 @@
           br
           | A través de la unitarización se agrupa la mercancía en unidades convencionales de manera que pueda ser manipulada durante las operaciones de cargue y descargue, almacenamiento y transporte en operaciones logísticas nacionales o internacionales.
         .cajon.color-acento-contenido.bg-rosa.p-4.mb-2
-          p La unidad de carga se puede apreciar al poner un sistema de empaque o embalaje sobre pallets, asegurándola a través de accesorios como esquineros, zunchos, grapas, mallas o películas envolventes para que se pueda transportar como una solo unidad de carga de manera segura, reduciendo superficies de almacenamiento, facilitando la manipulación de la mercancía y favoreciendo las operaciones logísticas. 
+          p La unidad de carga se puede apreciar al poner un sistema de empaque o embalaje sobre <em>pallets</em>, asegurándola a través de accesorios como esquineros, zunchos, grapas, mallas o películas envolventes para que se pueda transportar como una solo unidad de carga de manera segura, reduciendo superficies de almacenamiento, facilitando la manipulación de la mercancía y favoreciendo las operaciones logísticas. 
         p Varias unidades de carga pueden agruparse en contenedores o remolques, convirtiéndose así en la unidad de un contenedor.
     p.mb-5 A continuación, se presenta una ilustración donde puede apreciar de manera clara el producto pasando desde su empaque primario hasta la carga paletizada, conformando de esta manera la unidad de carga:
     .row.justify-content-center.mb-5
@@ -26,7 +26,7 @@
       br
       |Las modalidades más comunes de unitarización son: 
     h3.titulo-tercero Paletización
-    p.mb-5 Se trata de disponer la mercancía sobre un pallet para facilitar su almacenaje y transporte, los tipos de pallet son diversos, normalmente son de madera, pero también pueden ser de metal o plástico.
+    p.mb-5 Se trata de disponer la mercancía sobre un <em>pallet</em> para facilitar su almacenaje y transporte, los tipos de <em>pallet</em> son diversos, normalmente son de madera, pero también pueden ser de metal o plástico.
       br
       br
       | Para realizar esta actividad deben considerarse los siguientes aspectos:
@@ -42,7 +42,7 @@
             ul.lista-ul--color
               li
                 i.fas.fa-angle-right
-                | La superficie del pallet debe estar ocupada totalmente para obtener un peso óptimo.  
+                | La superficie del <em>pallet</em> debe estar ocupada totalmente para obtener un peso óptimo.  
               li
                 i.fas.fa-angle-right
                 | La unidad de carga debe estar conformada por cajas, bultos, sacos o bidones de las mismas dimensiones o muy similares.  
@@ -55,7 +55,7 @@
               figure
                 img(src='@/assets/curso/117.png', alt='Texto que describa la imagen')
           .col-md-5 
-            p Las medidas estándar de un pallet cambian entre un país y otro, sin embargo, las medidas más utilizadas son: Estados Unidos: 1.219 mm de ancho por 1.016 mm de fondo (48” x 40”); Europa: 1.200 mm de ancho por 1.000 mm de fondo (1.2 m x 1 m). En Colombia el Instituto Colombiano de Normas Técnicas (Icontec), con el fin de estandarizar el uso de pallets, emitió la norma NTC 4680-2013, en la cual se evidencia la normalización existente sobre pallets y los requerimientos exigidos según el comercio internacional.
+            p Las medidas estándar de un <em>pallet</em> cambian entre un país y otro, sin embargo, las medidas más utilizadas son: Estados Unidos: 1.219 mm de ancho por 1.016 mm de fondo (48” x 40”); Europa: 1.200 mm de ancho por 1.000 mm de fondo (1.2 m x 1 m). En Colombia el Instituto Colombiano de Normas Técnicas (Icontec), con el fin de estandarizar el uso de <em>pallets</em>, emitió la norma NTC 4680-2013, en la cual se evidencia la normalización existente sobre <em>pallets</em> y los requerimientos exigidos según el comercio internacional.
     h3.titulo-tercero Contenedorización
     p.mb-5 El transporte en contenedores garantiza la entrega rápida y segura de los envíos, disminuye costos y reduce de manera considerable el riesgo de daños o hurtos de la mercancía. Básicamente consiste en una caja de alta resistencia a la manipulación, diseñada para transportar mercancías.
       br

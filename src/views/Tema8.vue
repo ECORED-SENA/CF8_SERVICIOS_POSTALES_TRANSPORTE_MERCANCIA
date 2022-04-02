@@ -49,7 +49,7 @@
                 th.h3 Descripción
             tbody
               tr
-                td.fw-bold Mecánicos
+                td.fw-bold.text-center Mecánicos
                 td 
                   ul.lista-ul--color
                     li
@@ -74,7 +74,7 @@
                       i.fas.fa-chevron-circle-right
                       |Vibración de acuerdo con el modo de transporte.
               tr
-                td.fw-bold Físicos/Orgánicos
+                td.fw-bold.text-center Físicos/Orgánicos
                 td 
                   ul.lista-ul--color
                     li
@@ -90,14 +90,14 @@
                       i.fas.fa-chevron-circle-right
                       |Ralladuras o cortes.
               tr
-                td.fw-bold Térmicos
+                td.fw-bold.text-center Térmicos
                 td 
                   ul.lista-ul--color
                     li
                       i.fas.fa-chevron-circle-right
                       |Al exponerse a temperaturas muy elevadas o bajas debido al ambiente o mal funcionamiento de equipos.
               tr
-                td.fw-bold Químicos
+                td.fw-bold.text-center Químicos
                 td 
                   ul.lista-ul--color
                     li
@@ -107,7 +107,7 @@
                       i.fas.fa-chevron-circle-right
                       |Reacción de los mismos materiales o productos.
               tr
-                td.fw-bold Biológicos
+                td.fw-bold.text-center Biológicos
                 td 
                   ul.lista-ul--color
                     li
@@ -126,7 +126,7 @@
                       i.fas.fa-chevron-circle-right
                       |Insectos.
               tr
-                td.fw-bold Otros
+                td.fw-bold.text-center Otros
                 td 
                   ul.lista-ul--color
                     li

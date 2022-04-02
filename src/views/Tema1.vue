@@ -239,7 +239,7 @@
             h4.text-center Entre otros
     p.mb-5 Una vez los productos se han agrupado en sus respectivos sistemas de embalaje y se han puesto sobre la estiba se realiza lo que se conoce como paletización 
       br
-      |Algunas de las formas más usadas a través de las cuales se puede dar el embalaje son:s
+      |Algunas de las formas más usadas a través de las cuales se puede dar el embalaje son:
     .row.mb-5.justify-content-center.g-5
       .col-lg-3
         .imagen-rb
