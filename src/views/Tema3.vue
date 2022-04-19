@@ -234,4 +234,6 @@ export default {
         display: none
       img:last-child
         display: block
+.slyder-a__tipo-a .slyder-a__bullets
+  bottom: -14px
 </style>

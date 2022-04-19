@@ -56,7 +56,7 @@
       h2 1.1 Empaque
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/BuGJaUN783M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 Corresponde al material que protege al envase y que adicionalmente promueve la función de venta, brindando al consumidor información clara del producto. Sirve además como medio de transporte, almacenamiento y venta de productos. Se puede decir entonces que el empaque corresponde a un sistema a través del cual los productos son acomodados dentro de un recipiente para su traslado sin que sufran daño.
       br
       br
