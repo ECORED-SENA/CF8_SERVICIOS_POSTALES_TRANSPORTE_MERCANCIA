@@ -20,7 +20,7 @@
         p Varias unidades de carga pueden agruparse en contenedores o remolques, convirtiéndose así en la unidad de un contenedor.
     p.mb-5 A continuación, se presenta una ilustración donde puede apreciar de manera clara el producto pasando desde su empaque primario hasta la carga paletizada, conformando de esta manera la unidad de carga:
     .row.justify-content-center.mb-5
-      .col-lg-12: img(src='@/assets/curso/115.svg')
+      .col-lg-12: img(src='@/assets/curso/115.png')
     p.mb-5 Los materiales que conforman la unidad de carga deben cumplir con los requisitos que se establecen en las normas ISO y la legislación medioambiental y fitosanitaria del país de origen y de destino final.
       br
       br
@@ -42,13 +42,13 @@
             ul.lista-ul--color
               li
                 i.fas.fa-angle-right
-                | La superficie del <em>pallet</em> debe estar ocupada totalmente para obtener un peso óptimo.  
+                p.mb-0 La superficie del <em>pallet</em> debe estar ocupada totalmente para obtener un peso óptimo.  
               li
                 i.fas.fa-angle-right
-                | La unidad de carga debe estar conformada por cajas, bultos, sacos o bidones de las mismas dimensiones o muy similares.  
+                p.mb-0 La unidad de carga debe estar conformada por cajas, bultos, sacos o bidones de las mismas dimensiones o muy similares.  
               li
                 i.fas.fa-angle-right
-                | La unidad de carga formada por cajas de cartón debe alinearse en forma vertical haciendo coincidir sus cuatro esquinas y evitar sobrepasar los bordes de la estiba para evitar que queden en voladizo, además no deben exceder la altura máxima determinada. 
+                p.mb-0 La unidad de carga formada por cajas de cartón debe alinearse en forma vertical haciendo coincidir sus cuatro esquinas y evitar sobrepasar los bordes de la estiba para evitar que queden en voladizo, además no deben exceder la altura máxima determinada. 
         .row.justify-content-center.align-item-center
           .col-md-5
             .rounded-3.overflow-hidden

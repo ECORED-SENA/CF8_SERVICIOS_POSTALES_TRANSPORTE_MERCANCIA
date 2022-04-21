@@ -7,23 +7,23 @@
         span 1
       h1 Las 4 E de la logística
     p.mb-5 Estas hacen referencia a los elementos que posibilitan que la mercancía pueda llegar desde los sitios de producción hasta el consumidor final; y son:
-    .row.mb-5
-      .col-lg-3.mb-3.mb-xl-0
+    .row.justify-content-center.mb-5
+      .col-lg-3.col-8.mb-3.mb-xl-0
         .tarjetas-icono.p-5
           .tarjeta.tarjeta-icono-hover.color-secundario.p-4.mb-4
             img(src='@/assets/curso/0.svg')
           h4.text-center Envase
-      .col-lg-3.mb-3.mb-xl-0
+      .col-lg-3.col-8.mb-3.mb-xl-0
         .tarjetas-icono.p-5
           .tarjeta.tarjeta-icono-hover.color-secundario.p-4.mb-4
             img(src='@/assets/curso/1.svg')
           h4.text-center Empaque
-      .col-lg-3.mb-3.mb-xl-0
+      .col-lg-3.col-8.mb-3.mb-xl-0
         .tarjetas-icono.p-5
           .tarjeta.tarjeta-icono-hover.color-secundario.p-4.mb-4
             img(src='@/assets/curso/2.svg')
           h4.text-center Embalaje
-      .col-lg-3.mb-3.mb-xl-0
+      .col-lg-3.col-8.mb-3.mb-xl-0
         .tarjetas-icono.p-5
           .tarjeta.tarjeta-icono-hover.color-secundario.p-4.mb-4
             img(src='@/assets/curso/3.svg')
@@ -151,32 +151,32 @@
       |Entre las funciones más importantes del envase se encuentran:
     .d-flex.flex-wrap.justify-content-center.mb-5
       .tarjetas-icono.mx-1
-          .tarjeta.tarjeta-icono-hover.color-acento-botones.p-4.mb-4
-            img(src='@/assets/curso/21.svg' style='max-width: 118px')
+          .tarjeta.color-acento-botones.p-4.mb-4
+            img(src='@/assets/curso/21.svg' style='width: 118px !important')
           h4.text-center Contener el <br>producto
       .tarjetas-icono.mx-1
-          .tarjeta.tarjeta-icono-hover.color-acento-botones.p-4.mb-4
-            img(src='@/assets/curso/22.svg' style='max-width: 118px')
+          .tarjeta.color-acento-botones.p-4.mb-4
+            img(src='@/assets/curso/22.svg' style='width: 118px !important')
           h4.text-center Proteger la <br>mercancía
       .tarjetas-icono.mx-1
-          .tarjeta.tarjeta-icono-hover.color-acento-botones.p-4.mb-4
-            img(src='@/assets/curso/23.svg' style='max-width: 118px')
+          .tarjeta.color-acento-botones.p-4.mb-4
+            img(src='@/assets/curso/23.svg' style='width: 118px !important')
           h4.text-center Fraccionar la <br>mercancía
       .tarjetas-icono.mx-1
-          .tarjeta.tarjeta-icono-hover.color-acento-botones.p-4.mb-4
-            img(src='@/assets/curso/24.svg' style='max-width: 118px')
+          .tarjeta.color-acento-botones.p-4.mb-4
+            img(src='@/assets/curso/24.svg' style='width: 118px !important')
           h4.text-center Conservar sus <br>propiedades
       .tarjetas-icono.mx-1
-          .tarjeta.tarjeta-icono-hover.color-acento-botones.p-4.mb-4
-            img(src='@/assets/curso/25.svg' style='max-width: 118px')
+          .tarjeta.color-acento-botones.p-4.mb-4
+            img(src='@/assets/curso/25.svg' style='width: 118px !important')
           h4.text-center Manipular la <br>mercancía
       .tarjetas-icono.mx-1
-          .tarjeta.tarjeta-icono-hover.color-acento-botones.p-4.mb-4
-            img(src='@/assets/curso/26.svg' style='max-width: 118px')
+          .tarjeta.color-acento-botones.p-4.mb-4
+            img(src='@/assets/curso/26.svg' style='width: 118px !important')
           h4.text-center Facilitar el uso y <br>consumo del <br>producto
       .tarjetas-icono.mx-1
-          .tarjeta.tarjeta-icono-hover.color-acento-botones.p-4.mb-4
-            img(src='@/assets/curso/27.svg' style='max-width: 118px')
+          .tarjeta.color-acento-botones.p-4.mb-4
+            img(src='@/assets/curso/27.svg' style='width: 118px')
           h4.text-center Comercializar el <br>producto
     p.mb-5 También es llamado empaque primario o de venta, debido a que hace referencia al recipiente que está en contacto directo con el producto, es decir aquellos que contienen el producto en su presentación individual, listo para venta de primera mano, por ejemplo: botellas, enlatados, frascos, etc.
     .fondo-img-flotante.color-acento-contenido.p-5
@@ -339,32 +339,32 @@
       .col-lg-3.mb-3
         .tarjeta.tarjeta-icon-hover.rounded-0.color-alt3.h-100.p-4
           .icon-hover.d-flex.justify-content-center.mb-3.px-5
-            img(src='@/assets/curso/48.svg', alt='Texto que describa la imagen')
-            img(src='@/assets/curso/49.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/48.svg', alt='Texto que describa la imagen' style='width: 248px !important')
+            img(src='@/assets/curso/49.svg', alt='Texto que describa la imagen' style='width: 248px !important')
           .text-center
             h4 Rollo
             p Se caracteriza porque viene en bobinas, es importante tener en cuenta el sentido de embobinado.
       .col-lg-3.mb-3
         .tarjeta.tarjeta-icon-hover.rounded-0.color-alt3.h-100.p-4
           .icon-hover.d-flex.justify-content-center.mb-3.px-5
-            img(src='@/assets/curso/50.svg', alt='Texto que describa la imagen')
-            img(src='@/assets/curso/51.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/50.svg', alt='Texto que describa la imagen' style='width: 248px !important')
+            img(src='@/assets/curso/51.svg', alt='Texto que describa la imagen' style='width: 248px !important')
           .text-center
             h4 Por unidades cortadas
             p Son puestas al envase con adhesivo base de agua o <em>hot melt</em>, se utilizan mucho en el sector de bebidas de cerveza.
       .col-lg-3.mb-3
         .tarjeta.tarjeta-icon-hover.rounded-0.color-alt3.h-100.p-4
           .icon-hover.d-flex.justify-content-center.mb-3.px-5
-            img(src='@/assets/curso/52.svg', alt='Texto que describa la imagen')
-            img(src='@/assets/curso/53.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/52.svg', alt='Texto que describa la imagen' style='width: 248px !important')
+            img(src='@/assets/curso/53.svg', alt='Texto que describa la imagen' style='width: 248px !important')
           .text-center
             h4 Manga
             p Se aplican de manera tubular, manualmente o con equipos automáticos.
       .col-lg-3.mb-3
         .tarjeta.tarjeta-icon-hover.rounded-0.color-alt3.h-100.p-4
           .icon-hover.d-flex.justify-content-center.mb-3.px-5
-            img(src='@/assets/curso/54.svg', alt='Texto que describa la imagen')
-            img(src='@/assets/curso/55.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/54.svg', alt='Texto que describa la imagen' style='width: 248px !important')
+            img(src='@/assets/curso/55.svg', alt='Texto que describa la imagen' style='width: 248px !important')
           .text-center
             h4 Etiqueta <em>in-mold</em>
             p Se aplica en el molde al momento que se está soplando una botella. 
@@ -378,21 +378,21 @@
       .col-lg-4.mb-3
         .tarjeta.rounded-0.color-alt3.h-100.p-4
           .icon-hover.d-flex.justify-content-center.mb-3.px-5
-            img(src='@/assets/curso/57.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/57.svg', alt='Texto que describa la imagen' style='width: 248px !important')
           .text-center
             h4 Marcas estándar o de expedición
             p Da información sobre el importador, dirección, destino, número de referencia y número de unidades.
       .col-lg-4.mb-3
         .tarjeta.rounded-0.color-alt3.h-100.p-4
           .icon-hover.d-flex.justify-content-center.mb-3.px-5
-            img(src='@/assets/curso/58.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/58.svg', alt='Texto que describa la imagen' style='width: 248px !important')
           .text-center
             h4 Marcas informativas
             p Información adicional como país de origen, puerto de salida y entrada, peso bruto y neto.
       .col-lg-4.mb-3
         .tarjeta.rounded-0.color-alt3.h-100.p-4
           .icon-hover.d-flex.justify-content-center.mb-3.px-5
-            img(src='@/assets/curso/59.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/59.svg', alt='Texto que describa la imagen' style='width: 248px !important')
           .text-center
             h4 Marcas de manipulación
             p Corresponde a la información sobre el manejo y advertencias al momento de manipular o transportar la mercancía, haciendo uso de pictogramas de uso internacional.
@@ -406,7 +406,7 @@
       br
       |A continuación, se puede evidenciar un ejemplo de etiqueta de envase y uno de embalaje:
     figure.mb-5
-      img(src='@/assets/curso/61.svg', alt='Texto que describa la imagen')
+      img(src='@/assets/curso/61.png', alt='Texto que describa la imagen')
 
 
 

@@ -34,7 +34,7 @@
               p Es la información sobre el manejo y forma de manipular o transportar la carga, haciendo uso de símbolos pictóricos aceptados internacionalmente.  
     p.mb-5 A continuación, se muestra una imagen que evidencia los símbolos de manejo de carga:
     .row.justify-content-center.mb-5
-      .col-lg-11: img(src='@/assets/curso/135.svg', alt='Texto que describa la imagen')
+      .col-lg-11: img(src='@/assets/curso/135.png', alt='Texto que describa la imagen')
     p.mb-5 Según la norma ISO 780, hay símbolos que se utilizan para dar instrucciones sobre el manejo de la carga, a través de estos se informan posiciones, formas de llenado, apertura, condiciones de almacenamiento o conservación; y son los siguientes:
     SlyderF.mb-5.tarjetas-full(columnas="col-lg-6 col-xl-3")
       .tarjeta.rounded-0.bg-purple-claros.p-3.py-5
@@ -186,9 +186,7 @@
         .contenedor
           img(src='@/assets/curso/168.jpg' alt='AvatarTop' style='widht:100px').mb-3
           h4.text-center Contaminantes marinos
-    p.mb-5 Finalmente y con el fin de sintetizar el contenido de este componente formativo se presenta el siguiente mapa conceptual:
-    .row.justify-content-center.mb-5
-      .col-lg-10: img(src='@/assets/curso/169.svg')
+    
 </template>
 
 <script>
@@ -218,7 +216,7 @@ export default {
   background-color: #bac1f3
 .tarjetas-full
   .horizontal-scroll
-    align-items: normal
+    align-items: normal !important
   .contenedor
     height: 100%
 

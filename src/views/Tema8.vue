@@ -167,10 +167,11 @@ export default {
   background-color: #fff7e6
   position: relative
   .contenedor-imagen
+    // @media (max-width: $bp-max-lg)
     position: absolute
     left: 5%
     top: -7%
-    width: 397px !important
+    width: 397px
   @media (max-width: $bp-max-lg)
     display: flex
     justify-content: center

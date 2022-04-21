@@ -39,19 +39,19 @@
           img(src='@/assets/curso/99.svg', alt='Texto que describa la imagen').mb-4
         h3.text-center.mb-5 Inspección preliminar de los productos a empacar
         .d-flex.justify-content-center
-          p.h3.fw-normal Para determinar desviaciones o imperfecciones que impidan que el producto llegue al cliente de la manera correcta.
+          p.fw-normal Para determinar desviaciones o imperfecciones que impidan que el producto llegue al cliente de la manera correcta.
       .tarjeta-slide-down.tarjeta.bg-purple.p-4.mb-3
         .contenedor-imagen
           img(src='@/assets/curso/99.svg', alt='Texto que describa la imagen').mb-4
         h3.text-center.mb-5 Inspección durante el empaque
         .d-flex.justify-content-center
-          p.h3.fw-normal Con el fin de garantizar un proceso efectivo y que cumpla con los requisitos exigidos.  
+          p.fw-normal Con el fin de garantizar un proceso efectivo y que cumpla con los requisitos exigidos.  
       .tarjeta-slide-down.tarjeta.color-acento-contenido.p-4
         .contenedor-imagen
           img(src='@/assets/curso/99.svg', alt='Texto que describa la imagen').mb-4
         h3.text-center.mb-5 Inspección final
         .d-flex.justify-content-center
-          p.text-center.h3.fw-normal Donde se asegura que el producto ha sido empacado de la manera adecuada. Adicionalmente, se comprueba que cuente con el código de barras y se alista la carga para el embalaje. 
+          p.text-center.fw-normal Donde se asegura que el producto ha sido empacado de la manera adecuada. Adicionalmente, se comprueba que cuente con el código de barras y se alista la carga para el embalaje. 
     p.mb-5 Los productos elaborados bajo normas industriales aplicadas que deben cumplir con estándares de calidad poseen un código universal de productos (UPC, Universal Product Code) que también es conocido como código de barras, el cual se traduce en una serie de dígitos que presenta información sobre el productor y el producto, facilitando el control de inventarios y costos.
     .row.mb-5
       .col-lg-6: img(src='@/assets/curso/100.png')

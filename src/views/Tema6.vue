@@ -11,10 +11,10 @@
       .col-lg-9
         .bloque-texto-g.color-acento-contenido.position-relative.p-3.p-sm-4.p-md-5.mt-5
           .bloque-texto-g__img(
-            :style="{'background-image':`url(${require('@/assets/curso/101.jpg')})`}"
+            :style="{'background-image':`url(${require('@/assets/curso/21.jpg')})`}"
           )
-          img(src='@/assets/curso/102.png', alt='Texto que describa la imagen' style='position: absolute ; bottom: 0 ; left: -3.2%; width: 360px')
-          .bloque-texto-g__texto.px-5.py-4(style='width: 65%')
+          img.d-none.d-lg-block(src='@/assets/curso/102.png', alt='Texto que describa la imagen' style='position: absolute ; bottom: 0 ; left: -3.2%; width: 360px')
+          .bloque-texto-g__texto.px-5.py-4
             p.mb-0 Cada consolidación consiste en la agrupación de distintas cargas que comparten un mismo destino o ruta, para ello <b>es necesario conocer el envase y el embalaje de la mercancía para determinar la manera de disponer de ella dentro del contenedor para que llegue en buen estado a su destino.</b> La carga consolidada permite el aprovechamiento del espacio y la consecuente disminución de los costos de transporte.
     p.mb-5 A través de la consolidación se logra:
     .row.mb-5.justify-content-between
@@ -51,20 +51,20 @@
     p.mb-5 Es importante tener en cuenta:
     .contain.p-5.mt-5
       .row.mb-5.mt-5
-        .col-lg-4.position-relative
+        .col-lg-4.position-relative.d-none.d-lg-block
           img(src='@/assets/curso/109.svg' style='position: absolute; left: 0 ; top: -20%; width: 328px')
         .col-lg-8
-          p.h2.fw-normal Para realizar la consolidación, primero se debe agrupar la mercancía que será embalada para dividirla dependiendo de los destinos o rutas de transporte. El embalaje se realiza a través de retractilado y flejado, vistos anteriormente, para estabilizar la carga y brindarle protección, y a través del etiquetado se identifica la mercancía embalada.
+          p.fw-normal Para realizar la consolidación, primero se debe agrupar la mercancía que será embalada para dividirla dependiendo de los destinos o rutas de transporte. El embalaje se realiza a través de retractilado y flejado, vistos anteriormente, para estabilizar la carga y brindarle protección, y a través del etiquetado se identifica la mercancía embalada.
           h4.titulo-cuarto Existen dos formas de consolidación de la mercancía:
-          .row.mb-5
+          .row.mb-0.mb-lg-5
             .col-lg-6.mb-3
               .tarjeta.tarjeta-absolute.p-4
-                h4 Agrupación por clientes: 
+                h5 Agrupación por clientes: 
                 p se trata de agrupar los pedidos de un solo cliente en un único envío, lo cual reduce los costos de transporte.
                 img(src='@/assets/curso/110.svg' style='width: 180px ; left: 0 ; bottom: -15%') 
             .col-lg-6.mb-3
               .tarjeta.tarjeta-absolute.p-4
-                h4 Agrupación por destinos:
+                h5 Agrupación por destinos:
                 p se agrupa la mercancía de distintos clientes que se encuentran en única ruta de transporte y en el mismo medio para transportarlas.
                 img(src='@/assets/curso/111.svg' style='width: 200px ; right: 0 ; bottom: -15%') 
       p.mb-5.mt-5 En el caso de la desconsolidación, se trata de desagrupar los embarques que tienen diferentes destinatarios, esta actividad debe ser realizada en instalaciones donde la descarga sea ágil y se pueda poner en los lugares adecuados. 

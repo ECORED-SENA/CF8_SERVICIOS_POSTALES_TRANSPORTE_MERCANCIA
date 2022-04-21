@@ -127,21 +127,21 @@
       .col-lg-4.mb-3
         .tarjeta.rounded-0.color-alt3.h-100.p-4
           .icon-hover.d-flex.justify-content-center.mb-3.px-5
-            img(src='@/assets/curso/84.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/84.svg', alt='Texto que describa la imagen' style='width: 248px !important')
           .text-center
             h4 Autoportante
             p El envase primario soporta por sí mismo el peso de otros productos sin que se deformen o dañen. <b>Por ejemplo, envases de vidrio o metal.</b>
       .col-lg-4.mb-3
         .tarjeta.rounded-0.color-alt3.h-100.p-4
           .icon-hover.d-flex.justify-content-center.mb-3.px-5
-            img(src='@/assets/curso/85.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/85.svg', alt='Texto que describa la imagen' style='width: 248px !important')
           .text-center
             h4 Semiportante
             p El envase primario no es lo suficiente rígido para soportar por sí solo el esfuerzo de compresión que se genera durante su almacenamiento o transporte. <b>Por ejemplo, botellas de plástico, cajas de cereales.</b>
       .col-lg-4.mb-3
         .tarjeta.rounded-0.color-alt3.h-100.p-4
           .icon-hover.d-flex.justify-content-center.mb-3.px-5
-            img(src='@/assets/curso/86.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/86.svg', alt='Texto que describa la imagen' style='width: 248px !important')
           .text-center
             h4 No portante
             p El envase primario no aporta ninguna resistencia al producto interno, <b>por ejemplo, galletas, frutas y verduras, bolsas de snacks.</b>

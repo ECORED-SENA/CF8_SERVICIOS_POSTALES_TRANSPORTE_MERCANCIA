@@ -14,31 +14,31 @@
         br
         |Contar con maquinaria para empaque y embalaje permite acelerar la producción, optimizar espacio y tiempo y disminuir costos; la elección de cada una dependerá del tipo de producto que se manipule, entre las principales ventajas se encuentran por la utilización de maquinaria se encuentran:
     .d-flex.flex-wrap.justify-content-center.mb-5
-      .tarjetas-icono.mx-1
+      .tarjetas-icono.mx-1.mb-4
         .tarjeta.tarjeta-icono-hover.bg-verde-claro.p-4.mb-3.h-100(style='width: 228px; position: relative;')
           .d-flex.justify-content.position-absolute.w-100(style='top: -10%; left: 0;')
             img(src='@/assets/curso/89.svg' style='max-width: 120px').mb-4.m-auto
           br
           h4.text-center.mt-5.mb-0 Eficiencia y ahorro en tiempo
-      .tarjetas-icono.mx-1
+      .tarjetas-icono.mx-1.mb-4
         .tarjeta.tarjeta-icono-hover.bg-verde-claro.p-4.mb-3.h-100(style='width: 228px; position: relative;')
           .d-flex.justify-content.position-absolute.w-100(style='top: -10%; left: 0;')
             img(src='@/assets/curso/90.svg' style='max-width: 120px').mb-4.m-auto
           br
           h4.text-center.mt-5.mb-0 Seguridad para los empleados
-      .tarjetas-icono.mx-1
+      .tarjetas-icono.mx-1.mb-4
         .tarjeta.tarjeta-icono-hover.bg-verde-claro.p-4.mb-3.h-100(style='width: 228px; position: relative;')
           .d-flex.justify-content.position-absolute.w-100(style='top: -10%; left: 0;')
             img(src='@/assets/curso/91.svg' style='max-width: 120px').mb-4.m-auto
           br
           h4.text-center.mt-5.mb-0 Reducción en costos de materiales
-      .tarjetas-icono.mx-1
+      .tarjetas-icono.mx-1.mb-4
         .tarjeta.tarjeta-icono-hover.bg-verde-claro.p-4.mb-3.h-100(style='width: 228px; position: relative;')
           .d-flex.justify-content.position-absolute.w-100(style='top: -10%; left: 0;')
             img(src='@/assets/curso/92.svg' style='max-width: 120px').mb-4.m-auto
           br
           h4.text-center.mt-5.mb-0 Mejora en el control de inventario
-      .tarjetas-icono.mx-1
+      .tarjetas-icono.mx-1.mb-4
         .tarjeta.tarjeta-icono-hover.bg-verde-claro.p-4.mb-3.h-100(style='width: 228px; position: relative;')
           .d-flex.justify-content.position-absolute.w-100(style='top: -10%; left: 0;')
             img(src='@/assets/curso/93.svg' style='max-width: 120px').mb-4.m-auto
