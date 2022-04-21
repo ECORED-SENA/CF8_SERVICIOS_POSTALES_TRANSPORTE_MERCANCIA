@@ -1,1 +1,1 @@
-module.exports = 'Empaque de mercancía y objetos postales.'
+module.exports = 'Empaque de mercancía y objetos postales'

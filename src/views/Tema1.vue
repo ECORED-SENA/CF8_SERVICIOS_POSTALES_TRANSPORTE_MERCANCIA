@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 1
       h1 Las 4 E de la logística
-    p.mb-5 Estas hacen referencia a los elementos que posibilitan que la mercancía pueda llegar desde los sitios de producción hasta el consumidor final; y son:
+    p.mb-5 Estas hacen referencia a los elementos que posibilitan que la mercancía pueda llegar desde los sitios de producción hasta el consumidor final y son:
     .row.justify-content-center.mb-5
       .col-lg-3.col-8.mb-3.mb-xl-0
         .tarjetas-icono.p-5
@@ -33,7 +33,7 @@
       |Hoy en día estos elementos se han visto influenciados por aspectos ligados al medio ambiente, promoviendo el empaque y embalaje con materiales reciclables o reutilizables, también tienen una influencia tecnológica, mejorando sus propiedades y facilitando la codificación estandarizada para el control del flujo de mercancía.
       br
       br
-      |Por su función, estos elementos pueden ser clasificados como se muestra en las siguientes imágenes.
+      |Por su función, estos elementos pueden ser clasificados como se muestra en las siguientes imágenes:
     .row.mb-5.justify-content-center.g-5
       .col-lg-3
         .imagen-rb

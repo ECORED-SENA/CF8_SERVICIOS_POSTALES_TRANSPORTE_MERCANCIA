@@ -14,7 +14,7 @@
           br
           br
           |En ocasiones se pueden presentar situaciones de validación documental que se deben tener en cuenta, como la falta de documentación a través de la cual se valide la mercancía, como la factura de venta, registro de nacionalización o permiso especial de transporte para materiales restringidos si es el caso.
-    p.mb-5 A través del packing list se puede tener un respaldo de la mercancía que se ha cargado en un contenedor, es decir, se le garantiza al exportador que durante el transporte se tiene un documento que identifica la carga, esta debe contener:
+    p.mb-5 A través del <em>packing list</em> se puede tener un respaldo de la mercancía que se ha cargado en un contenedor, es decir, se le garantiza al exportador que durante el transporte se tiene un documento que identifica la carga, esta debe contener:
     .row.mb-5
       .col-lg-6
         .tarjeta.d-flex.align-items-center.p-5
@@ -38,7 +38,7 @@
               figure.img-rounded
                 img(src='@/assets/curso/129.jpg', alt='Texto que describa la imagen')
           .col-md-5
-            h4 Nota de entrega:
+            h4 Nota de entrega
             p Documento que acompaña a la mercancía en el proceso de expedición, tiene como función principal ser justificante de la entrega.
         .row.justify-content-center.align-items-center
           .col-md-5
@@ -46,7 +46,7 @@
               figure.img-rounded
                 img(src='@/assets/curso/130.jpg', alt='Texto que describa la imagen')
           .col-md-5
-            h4 Hoja de ruta:
+            h4 Hoja de ruta
             p La expedición se organiza por rutas de reparto que deben ser asignadas a los transportadores, en esta se indican los diferentes destinos a atender junto con la orden de entrega. Para cada entrega se deben especificar los bultos y observaciones que existen.
         .row.justify-content-center.align-items-center
           .col-md-5
@@ -54,7 +54,7 @@
               figure.img-rounded
                 img(src='@/assets/curso/131.jpg', alt='Texto que describa la imagen')
           .col-md-5
-            h4 Carta de porte:
+            h4 Carta de porte
             p Es el documento que prueba la existencia de contrato de transporte, sirve de soporte de recibo de la mercancía del cargador frente al transportista.
 </template>
 

@@ -38,7 +38,7 @@
     p.mb-5 Tanto el almacenamiento y bodegaje deben resguardar los productos de posibles daños y garantizar las condiciones de seguridad de los productos, por eso es importante conocer algunos riesgos que se pueden presentar en el almacenamiento bodegaje y de los cuales se deben proteger a los productos:
     .titulo-sexto.color-primario
       h5 Tabla 4 
-      span Riesgos que se pueden presentar en el almacenamiento bodegaje
+      span Riesgos que se pueden presentar en el almacenamiento bodegaje.
     .row.justify-content-center.mb-5
       .col-lg-9
         .tabla-a.color-acento-botones.mb-5

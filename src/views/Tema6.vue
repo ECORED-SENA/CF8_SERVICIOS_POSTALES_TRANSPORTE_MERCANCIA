@@ -59,13 +59,13 @@
           .row.mb-0.mb-lg-5
             .col-lg-6.mb-3
               .tarjeta.tarjeta-absolute.p-4
-                h5 Agrupación por clientes: 
-                p se trata de agrupar los pedidos de un solo cliente en un único envío, lo cual reduce los costos de transporte.
+                h5 Agrupación por clientes 
+                p Se trata de agrupar los pedidos de un solo cliente en un único envío, lo cual reduce los costos de transporte.
                 img(src='@/assets/curso/110.svg' style='width: 180px ; left: 0 ; bottom: -15%') 
             .col-lg-6.mb-3
               .tarjeta.tarjeta-absolute.p-4
-                h5 Agrupación por destinos:
-                p se agrupa la mercancía de distintos clientes que se encuentran en única ruta de transporte y en el mismo medio para transportarlas.
+                h5 Agrupación por destinos
+                p Se agrupa la mercancía de distintos clientes que se encuentran en única ruta de transporte y en el mismo medio para transportarlas.
                 img(src='@/assets/curso/111.svg' style='width: 200px ; right: 0 ; bottom: -15%') 
       p.mb-5.mt-5 En el caso de la desconsolidación, se trata de desagrupar los embarques que tienen diferentes destinatarios, esta actividad debe ser realizada en instalaciones donde la descarga sea ágil y se pueda poner en los lugares adecuados. 
       h4.titulo-cuarto Existen dos formas principales de desconsolidación:
@@ -77,7 +77,7 @@
         .col-lg-5.mb-3
           .tarjeta.tarjeta-absolute2.d-flex.align-items-end.p-4
             img(src='@/assets/curso/113.svg' style='width: 170px ; right: -5% ; top: 5%').mb-3
-            p <b>Desagrupación de embarques consolidados en un mismo packing list:</b> se trata de aquellos que requieren ser clasificados en referencias para una posterior ubicación en el almacén en espera de definir su configuración de expedición. 
+            p <b>Desagrupación de embarques consolidados en un mismo <em>packing list:</em></b> se trata de aquellos que requieren ser clasificados en referencias para una posterior ubicación en el almacén en espera de definir su configuración de expedición. 
       p.mb-5 El procedimiento de desconsolidación se realiza, por lo general, en centros de distribución para luego enviar la mercancía a los destinatarios. Por ejemplo, cuando llega un contenedor a puerto, este debe ser vaciado atendiendo al protocolo logístico establecido para que la mercancía sea reordenada y realizar el posterior envío en los camiones encargados de la distribución.  
 
 

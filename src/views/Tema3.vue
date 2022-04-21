@@ -23,23 +23,23 @@
               figure
                 img(src='@/assets/curso/77.png', alt='Texto que describa la imagen')
           .col-md-5
-            h4 Compatibilidad con el producto: 
-            p el material no debe modificar las características del producto ni hacer variar sus propiedades. Por ejemplo: los alimentos no deben tomar olor o sabor del material de empaque.
+            h4 Compatibilidad con el producto 
+            p El material no debe modificar las características del producto ni hacer variar sus propiedades. Por ejemplo: los alimentos no deben tomar olor o sabor del material de empaque.
         .row.justify-content-center
           .col-md-5
             .rounded-3.overflow-hidden
               figure
                 img(src='@/assets/curso/78.png', alt='Texto que describa la imagen')
           .col-md-5
-            h4 Resistencia mecánica:
-            p el material debe ser resistente a la compresión, desgarre, fricción o impacto. Ejemplo: las artesanías o artículos electrónicos requieren materiales resistentes a la compresión o impacto debido a su fragilidad.
+            h4 Resistencia mecánica
+            p El material debe ser resistente a la compresión, desgarre, fricción o impacto. Ejemplo: las artesanías o artículos electrónicos requieren materiales resistentes a la compresión o impacto debido a su fragilidad.
         .row.justify-content-center
           .col-md-5
             .rounded-3.overflow-hidden
               figure
                 img(src='@/assets/curso/79.png', alt='Texto que describa la imagen')
           .col-md-5
-            h4 Propiedades de protección:
+            h4 Propiedades de protección
             p Dependiendo del producto se requiere impermeabilidad al agua, gases, humedad o rayos ultravioletas. Ejemplo: perfumes, medicamentos o alimentos que requieren materiales con características de impermeabilidad.
         .row.justify-content-center
           .col-md-5
@@ -47,7 +47,7 @@
               figure
                 img(src='@/assets/curso/80.png', alt='Texto que describa la imagen')
           .col-md-5
-            h4 Propiedades de estabilidad:
+            h4 Propiedades de estabilidad
             p Es la aptitud del empaque para no modificarse debido al contacto con el producto o agentes externos. Ejemplo: el polipropileno se hace frágil cuando se somete a bajas temperaturas. 
         .row.justify-content-center
           .col-md-5
@@ -55,7 +55,7 @@
               figure
                 img(src='@/assets/curso/81.png', alt='Texto que describa la imagen')
           .col-md-5
-            h4 Operatividad:
+            h4 Operatividad
             p Es la aptitud del material para ser operado dentro de una línea de empacado. Ejemplo: si un material no se puede deslizar bien, se puede atascar en la línea de empaque.
         .row.justify-content-center
           .col-md-5
@@ -63,7 +63,7 @@
               figure
                 img(src='@/assets/curso/82.png', alt='Texto que describa la imagen')
           .col-md-5
-            h4 Conveniencia:
+            h4 Conveniencia
             p Aspectos como el peso, ergonomía o durabilidad deben ser considerados al seleccionar el material. Ejemplo: los productos que no se consumen de inmediato y que requieren ser empacados más tiempo, requieren un material duradero. 	
         .row.justify-content-center
           .col-md-5
@@ -71,8 +71,8 @@
               figure
                 img(src='@/assets/curso/83.png', alt='Texto que describa la imagen')
           .col-md-5
-            h4 Aspectos legales:
-            p Legislación y normativa vigente debe tenerse muy presente. Ejemplo el PVC no es permitido en algunos países, como Alemania.
+            h4 Aspectos legales
+            p Legislación y normativa vigente debe tenerse muy presente. Ejemplo: el PVC no es permitido en algunos países, como Alemania.
     p.mb-5 A continuación, se presentan algunos materiales a considerar para un empaque o embalaje apropiado, mencionando sus ventajas y desventajas, con el fin de tener en cuenta los usos y bondades que ofrecen.
     .titulo-sexto.color-primario
       h5 Tabla 2 
@@ -144,7 +144,7 @@
             img(src='@/assets/curso/86.svg', alt='Texto que describa la imagen' style='width: 248px !important')
           .text-center
             h4 No portante
-            p El envase primario no aporta ninguna resistencia al producto interno, <b>por ejemplo, galletas, frutas y verduras, bolsas de snacks.</b>
+            p El envase primario no aporta ninguna resistencia al producto interno, <b>por ejemplo, galletas, frutas y verduras, bolsas de <em>snacks.</em></b>
     h3.titulo-tercero El uso 
     .row
       .col-lg-6
@@ -186,7 +186,7 @@
               tr
                 td.fw-bold Empaque
                 td Cartulina, cartón corrugado, plástico.
-                td Bolsas termo encogibles, plegadizas, displays.
+                td Bolsas termo encogibles, plegadizas, <em>displays</em>.
               tr
                 td.fw-bold Embalaje
                 td Cartón corrugado, plástico, madera.
@@ -194,7 +194,7 @@
               tr
                 td.fw-bold Unidad de carga
                 td Cartón corrugado, plástico, madera.
-                td Estibas, esquineros, divisiones, stretch, zuncho.
+                td Estibas, esquineros, divisiones, <em>stretch</em>, zuncho.
 
 
 

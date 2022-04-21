@@ -79,10 +79,10 @@
       .row
         .col-md-5.mb-4.mb-md-0
           h4 Envolvedora
-          p Se usa para envolver un plástico alrededor de una serie de productos, permite ahorro de costos en material adicionalmente permite mayor productividad y salida de carga uniforme para acomodar en pallets.
+          p Se usa para envolver un plástico alrededor de una serie de productos, permite ahorro de costos en material adicionalmente permite mayor productividad y salida de carga uniforme para acomodar en <em>pallets.</em>
             br
             br
-            |Al cubrir con papel film toda la carga se evitan daños, riesgos de caída o rotura.
+            |Al cubrir con papel <em>film</em> toda la carga se evitan daños, riesgos de caída o rotura.
         .col-md-7
           figure.mb-5
             img(src='@/assets/curso/96.jpg', alt='Texto que describa la imagen')
@@ -95,7 +95,7 @@
               | Sirve para cerrar las cajas con cinta adhesiva.
             li
               i.fas.fa-circle
-              | Normalmente se encuentran en empresas que diseñan productos manufacturados con gran volumen de ventas, los que deben ser embalados para después transportarlos en pallets.
+              p.mb-0 Normalmente se encuentran en empresas que diseñan productos manufacturados con gran volumen de ventas, los que deben ser embalados para después transportarlos en <em>pallets.</em>
             li
               i.fas.fa-circle
               | Aportan seguridad e imagen de marca.

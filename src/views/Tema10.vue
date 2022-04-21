@@ -35,7 +35,7 @@
     p.mb-5 A continuación, se muestra una imagen que evidencia los símbolos de manejo de carga:
     .row.justify-content-center.mb-5
       .col-lg-11: img(src='@/assets/curso/135.png', alt='Texto que describa la imagen')
-    p.mb-5 Según la norma ISO 780, hay símbolos que se utilizan para dar instrucciones sobre el manejo de la carga, a través de estos se informan posiciones, formas de llenado, apertura, condiciones de almacenamiento o conservación; y son los siguientes:
+    p.mb-5 Según la Norma ISO 780, hay símbolos que se utilizan para dar instrucciones sobre el manejo de la carga, a través de estos se informan posiciones, formas de llenado, apertura, condiciones de almacenamiento o conservación; y son los siguientes:
     SlyderF.mb-5.tarjetas-full(columnas="col-lg-6 col-xl-3")
       .tarjeta.rounded-0.bg-purple-claros.p-3.py-5
         .contenedor
@@ -124,7 +124,7 @@
     p.mb-5 Además, también es importante tener presentes los símbolos para señalar la mercancía peligrosa, los cuales ofrecen información sobre sus características o peligros.
       br
       br
-      |En Colombia, la norma NTC 4702-2 regula los aspectos relacionados con el transporte y los embalajes de la mercancía peligrosa, los símbolos que se utilizan son:
+      |En Colombia, la Norma NTC 4702-2 regula los aspectos relacionados con el transporte y los embalajes de la mercancía peligrosa, los símbolos que se utilizan son:
     SlyderF.mb-5.tarjetas-full(columnas="col-lg-6 col-xl-3")
       .tarjeta.rounded-0.color-primario.p-3.py-5
         .contenedor

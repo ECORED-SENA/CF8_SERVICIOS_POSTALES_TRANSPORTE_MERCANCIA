@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Empaque de mercancía y objetos postales.',
+    componenteFormativo: 'Empaque de mercancía y objetos postales',
     descripcionCurso:
-      'El objetivo principal de empacar un producto es protegerlo, contenerlo e identificarlo con el fin de preservarlo en cualquier fase de la cadena de distribución física y así evitar cualquier riesgo de deterioro al momento de la entrega o hasta que llegue a su destino final sin que se alteren sus propiedades.',
+      'El objetivo principal de empacar un producto es protegerlo, contenerlo e identificarlo con el fin de preservarlo en cualquier fase de la cadena de distribución física y así evitar cualquier riesgo de deterioro al momento de la entrega o hasta que llegue a su destino final sin que se alteren sus propiedades',
     imagenBannerPrincipal: require('@/assets/curso/box.gif'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -121,7 +121,7 @@ export default {
     subMenu: [
       {
         icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
+        titulo: 'Síntesis',
         nombreRuta: 'sintesis',
       },
       {
@@ -182,8 +182,7 @@ export default {
     {
       referencia:
         'Navarro, J., P., y García, M. (2007). Guía práctica de diseño de envases y embalajes para la distribución de productos. ',
-      link:
-        'https://www.itene.com/rs/810/d112d6ad-54ec-438b-9358-4483f9e98868/f8b/filename/guia-diseno-envases-embalajes.pdf',
+      link: '',
     },
     {
       referencia:
@@ -272,7 +271,7 @@ export default {
       {
         nombre: 'Paula Daniela Diaz ',
         cargo: 'Experta temática',
-        centro: 'Distrito capital - CENIGRAF',
+        centro: 'Distrito capital  CENIGRAF',
       },
       {
         nombre: 'Gustavo Santis Mancipe',
@@ -282,12 +281,12 @@ export default {
       {
         nombre: 'Silvia Milena Sequeda Cárdenas',
         cargo: 'Evaluador instruccional',
-        centro: 'Centro de gestión industrial - Distrito capital. ',
+        centro: 'Centro de Gestión Industrial  Distrito capital ',
       },
       {
         nombre: 'José Gabriel Ortiz Abella',
         cargo: 'Corrector de estilo',
-        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        centro: 'Centro de Diseño y Metrología  Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [

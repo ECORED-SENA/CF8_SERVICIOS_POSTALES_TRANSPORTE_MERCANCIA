@@ -58,7 +58,7 @@
       .col-lg-6
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta color-acento-botones")
           div(titulo="Código")
-            p.subrayado Son caracteres numéricos o alfanuméricos asignados a una unidad.
+            p.subrayado Son caracteres numéricos o alfanuméricos asignados a una unidad. 
               span 8414237000153
           div(titulo="Símbolo")
             p.subrayado Representación de caracteres numéricos o alfabéticos en forma de 

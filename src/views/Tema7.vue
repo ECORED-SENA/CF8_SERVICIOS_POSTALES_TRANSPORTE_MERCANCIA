@@ -21,7 +21,7 @@
     p.mb-5 A continuación, se presenta una ilustración donde puede apreciar de manera clara el producto pasando desde su empaque primario hasta la carga paletizada, conformando de esta manera la unidad de carga:
     .row.justify-content-center.mb-5
       .col-lg-12: img(src='@/assets/curso/115.png')
-    p.mb-5 Los materiales que conforman la unidad de carga deben cumplir con los requisitos que se establecen en las normas ISO y la legislación medioambiental y fitosanitaria del país de origen y de destino final.
+    p.mb-5 Los materiales que conforman la unidad de carga deben cumplir con los requisitos que se establecen en las Normas ISO y la legislación medioambiental y fitosanitaria del país de origen y de destino final.
       br
       br
       |Las modalidades más comunes de unitarización son: 
@@ -55,7 +55,7 @@
               figure
                 img(src='@/assets/curso/117.png', alt='Texto que describa la imagen')
           .col-md-5 
-            p Las medidas estándar de un <em>pallet</em> cambian entre un país y otro, sin embargo, las medidas más utilizadas son: Estados Unidos: 1.219 mm de ancho por 1.016 mm de fondo (48” x 40”); Europa: 1.200 mm de ancho por 1.000 mm de fondo (1.2 m x 1 m). En Colombia el Instituto Colombiano de Normas Técnicas (Icontec), con el fin de estandarizar el uso de <em>pallets</em>, emitió la norma NTC 4680-2013, en la cual se evidencia la normalización existente sobre <em>pallets</em> y los requerimientos exigidos según el comercio internacional.
+            p Las medidas estándar de un <em>pallet</em> cambian entre un país y otro, sin embargo, las medidas más utilizadas son:<br> Estados Unidos: 1.219 mm de ancho por 1.016 mm de fondo (48” x 40”)<br>Europa: 1.200 mm de ancho por 1.000 mm de fondo (1.2 m x 1 m).<br> En Colombia el Instituto Colombiano de Normas Técnicas (ICONTEC), con el fin de estandarizar el uso de <em>pallets</em>, emitió la norma NTC 4680-2013, en la cual se evidencia la normalización existente sobre <em>pallets</em> y los requerimientos exigidos según el comercio internacional.
     h3.titulo-tercero Contenedorización
     p.mb-5 El transporte en contenedores garantiza la entrega rápida y segura de los envíos, disminuye costos y reduce de manera considerable el riesgo de daños o hurtos de la mercancía. Básicamente consiste en una caja de alta resistencia a la manipulación, diseñada para transportar mercancías.
       br
