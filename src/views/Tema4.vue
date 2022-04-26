@@ -69,7 +69,7 @@
           p Es la técnica de embalaje más utilizada y hacen referencia a máquinas que empaquetan o envuelven la mercancía con una película termoplástica que se retrae y adapta a la forma del producto.
             br
             br
-            |El proceso para retractilar consta de dos fases principales, en la primera de sella para cerrar el plástico y la segunda consiste en adherir y fijar el plástico al producto.
+            |El proceso para retractilar consta de dos fases principales, en la primera se sella para cerrar el plástico y la segunda consiste en adherir y fijar el plástico al producto.
             br
             br
             |Permite automatizar el proceso de embalaje y disminuir costos ya que estira la cantidad exacta de material necesario y no malgasta recursos en el proceso.

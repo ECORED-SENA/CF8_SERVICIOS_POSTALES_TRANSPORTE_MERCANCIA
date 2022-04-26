@@ -7,7 +7,7 @@
       .titulo-principal__numero
         span 10
       h1 Símbolos de manejo de carga
-    p.mb-5 Una adecuada señalización de la carga permite que se la mercancía se pueda identificar en cualquiera de sus etapas logísticas y de esta manera identificar la forma cómo se debe proceder adecuadamente con la misma.
+    p.mb-5 Una adecuada señalización de la carga permite que la mercancía se pueda identificar en cualquiera de sus etapas logísticas y de esta manera identificar la forma cómo se debe proceder adecuadamente con la misma.
       br
       br
       |Existen tres tipos de marcas para el manejo de mercancías, a saber:

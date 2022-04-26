@@ -373,7 +373,7 @@
       .d-flex.flex-wrap.justify-content-center.align-items-center
         img(src='@/assets/curso/56.svg' style='width: 63px').me-4
         .w-90
-          p.mb-0 <b>Marcado:</b> hace la función de calidad por ejemplo al ser parte de un sello que garantiza la inviolabilidad del producto, lo hace menos sensible al contrabando o al fraude. Los tipos de marcación de dividen en: 
+          p.mb-0 <b>Marcado:</b> hace la función de calidad por ejemplo al ser parte de un sello que garantiza la inviolabilidad del producto, lo hace menos sensible al contrabando o al fraude. Los tipos de marcación se dividen en: 
     .row.mb-5
       .col-lg-4.mb-3
         .tarjeta.rounded-0.color-alt3.h-100.p-4
