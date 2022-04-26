@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="1435" viewBox="0 0 1240 1435">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_39346" data-name="Rectángulo 39346" width="1240" height="1435" transform="translate(0 0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_39345" data-name="Rectángulo 39345" width="1515.543" height="431.447" fill="#ffe7e4"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_154574" data-name="Grupo 154574" transform="translate(-180 -1491.476)">
+    <rect id="Rectángulo_39344" data-name="Rectángulo 39344" width="1240" height="1434" transform="translate(180 1492.476)" fill="#ffcec9"/>
+    <g id="Enmascarar_grupo_66" data-name="Enmascarar grupo 66" transform="translate(180 1491.476)" clip-path="url(#clip-path)">
+      <g id="Grupo_154273" data-name="Grupo 154273" transform="translate(-98.505 1026.266)">
+        <g id="Grupo_154272" data-name="Grupo 154272" style="isolation: isolate">
+          <g id="Grupo_154271" data-name="Grupo 154271">
+            <g id="Grupo_154270" data-name="Grupo 154270" clip-path="url(#clip-path-2)">
+              <path id="Trazado_162411" data-name="Trazado 162411" d="M0,15.145c52.509,11.65,110.667,6.988,165.094-.612C293.369-3.375,399.8-17.319,495.217,52.839c55.55,40.844,89.629,91.673,147.353,131.355,82.242,56.534,191.966,82.542,313.7,71.3,75.324-6.952,149.382-21.738,225.534-20.867,169.126,1.938,323.1,92.742,333.735,196.817H0Z" transform="translate(0 0)" fill="#ffe7e4"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_154274" data-name="Grupo 154274" transform="translate(1377.771 265.229) rotate(180)">
+        <g id="Grupo_154272-2" data-name="Grupo 154272" style="isolation: isolate">
+          <g id="Grupo_154271-2" data-name="Grupo 154271">
+            <g id="Grupo_154270-2" data-name="Grupo 154270" clip-path="url(#clip-path-2)">
+              <path id="Trazado_162411-2" data-name="Trazado 162411" d="M0,15.145c52.509,11.65,110.667,6.988,165.094-.612C293.369-3.375,399.8-17.319,495.217,52.839c55.55,40.844,89.629,91.673,147.353,131.355,82.242,56.534,191.966,82.542,313.7,71.3,75.324-6.952,149.382-21.738,225.534-20.867,169.126,1.938,323.1,92.742,333.735,196.817H0Z" transform="translate(0 0)" fill="#ffe7e4"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
